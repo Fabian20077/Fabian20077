@@ -17,6 +17,3 @@ Siempre aprendiendo, construyendo proyectos y buscando mejorar la calidad del so
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fabian20077&theme=github-dark-blue)
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian20077&layout=donut)
