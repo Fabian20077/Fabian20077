@@ -1,19 +1,35 @@
-¡Hola! Soy **Fabián** 👋
+## 👋 ¡Hola! Soy Fabián
 
-Tecnólogo en **Análisis y Desarrollo de Software**, enfocado en **QA, testing y automatización**.
+💻 **Tecnólogo en Análisis y Desarrollo de Software**  
+🧪 Enfocado en **QA, Testing y Automatización de pruebas**
 
-Me gusta construir software, analizar sistemas a fondo y mejorar los procesos de desarrollo utilizando **automatización e inteligencia artificial**.
+Me apasiona construir software, analizar sistemas a fondo y mejorar la **calidad del desarrollo** utilizando **automatización, buenas prácticas e inteligencia artificial**.
 
-Actualmente estoy aprendiendo y trabajando con:
+---
 
-⚡ **JavaScript | HTML | CSS | SQL**
-🧪 **QA Testing | Diseño de casos de prueba | Automatización de pruebas**
-🔧 **Git | GitHub | Metodologías ágiles (Scrum)**
-🤖 **Herramientas de IA aplicadas al desarrollo y testing**
-🚀 **DevOps y desarrollo Full Stack**
+### 🚀 Tecnologías y herramientas
 
-Siempre aprendiendo, construyendo proyectos y buscando mejorar la calidad del software.
+- ⚡ **Lenguajes:** JavaScript, HTML, CSS, SQL  
+- 🧪 **Testing:** QA Manual, Diseño de Casos de Prueba, Automatización (aprendiendo)  
+- 🔧 **Herramientas:** Git, GitHub  
+- 🤖 **IA aplicada al desarrollo y testing**  
+- ⚙️ **Metodologías ágiles:** Scrum  
 
+---
+
+### 📚 Actualmente aprendiendo
+
+- Automatización de pruebas  
+- DevOps y buenas prácticas de CI/CD  
+- Integración de IA en workflows de desarrollo  
+- Desarrollo **Full Stack**
+
+---
+
+### 📊 Actividad en GitHub
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fabian20077&theme=github-dark-blue)
 
+---
+
+💡 *Siempre aprendiendo, construyendo proyectos y buscando mejorar la calidad del software.*
